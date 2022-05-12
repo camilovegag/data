@@ -1,0 +1,187 @@
+{
+  "destinations": [
+    {
+      "id": 0,
+      "destination": "Alaska"
+    },
+    {
+      "id": 1,
+      "destination": "Arabian Gulf"
+    },
+    {
+      "id": 2,
+      "destination": "Asia"
+    },
+    {
+      "id": 3,
+      "destination": "Australia & New Zealand"
+    },
+    {
+      "id": 4,
+      "destination": "Bahamas"
+    },
+    {
+      "id": 5,
+      "destination": "Bermuda"
+    },
+    {
+      "id": 6,
+      "destination": "Canada & New England"
+    },
+    {
+      "id": 7,
+      "destination": "Caribbean"
+    },
+    {
+      "id": 8,
+      "destination": "Cuba"
+    },
+    {
+      "id": 9,
+      "destination": "Europe"
+    },
+    {
+      "id": 10,
+      "destination": "Hawaii"
+    },
+    {
+      "id": 11,
+      "destination": "Panama Canal"
+    },
+    {
+      "id": 12,
+      "destination": "Repositioning"
+    },
+    {
+      "id": 13,
+      "destination": "South Pacific"
+    },
+    {
+      "id": 14,
+      "destination": "Transatlantic"
+    },
+    {
+      "id": 15,
+      "destination": "Transpacific"
+    }
+  ],
+  "departing": [
+    {
+      "The Americas & The Caribbean": [
+        {
+          "id": 0,
+          "city": "Baltimore",
+          "state": "Maryland"
+        },
+        {
+          "id": 1,
+          "city": "Boston",
+          "state": "Massachusetts"
+        },
+        {
+          "id": 2,
+          "city": "Cape Liberty",
+          "state": "New Jersey"
+        },
+        {
+          "id": 3,
+          "city": "Fort Lauderdaule",
+          "state": "Florida"
+        },
+        {
+          "id": 4,
+          "city": "Galveston",
+          "state": "Texas"
+        },
+        {
+          "id": 5,
+          "city": "Honolulu (Ohau)",
+          "state": "Hawaii"
+        },
+        {
+          "id": 6,
+          "city": "Los Angeles",
+          "state": "California"
+        },
+        {
+          "id": 7,
+          "city": "Miami",
+          "state": "Florida"
+        },
+        {
+          "id": 8,
+          "city": "New Orleans",
+          "state": "Louisiana"
+        },
+        {
+          "id": 9,
+          "city": "Orlando (Port Canaveral)",
+          "state": "FL"
+        },
+        {
+          "id": 10,
+          "city": "Quebeq City, Quebec",
+          "state": "Canada"
+        },
+        {
+          "id": 11,
+          "city": "San Diego",
+          "state": "California"
+        },
+        {
+          "id": 12,
+          "city": "San Juan",
+          "state": "Puerto Rico"
+        },
+        {
+          "id": 13,
+          "city": "Seattle",
+          "state": "Washington"
+        },
+        {
+          "id": 14,
+          "city": "Seward",
+          "state": "Alaska"
+        },
+        {
+          "id": 15,
+          "city": "Tampa",
+          "state": "Florida"
+        },
+        {
+          "id": 16,
+          "city": "Vancouver",
+          "state": "British Columbia"
+        }
+      ]
+    },
+    {
+      "Europe": [
+        {
+          "id": 0,
+          "city": "Barcelona (Tarragona)",
+          "state": "Spain"
+        },
+        {
+          "id": 1,
+          "city": "Haifa",
+          "state": "Israel"
+        }
+      ]
+    },
+    {
+      "Asia & Southpacific ": [
+        {
+          "id": 0,
+          "city": "Pekin (Tianjin)",
+          "state": "China"
+        },
+        {
+          "id": 1,
+          "city": "Singapore",
+          "state": "Singapore"
+        }
+      ]
+    }
+  ]
+}
