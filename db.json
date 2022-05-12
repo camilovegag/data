@@ -65,9 +65,11 @@
       "destination": "Transpacific"
     }
   ],
-  "departing": [
+  "departures": [
     {
-      "The Americas & The Caribbean": [
+      "id": 0,
+      "location": "The Americas & The Caribbean",
+      "departure": [
         {
           "id": 0,
           "city": "Baltimore",
@@ -156,7 +158,9 @@
       ]
     },
     {
-      "Europe": [
+      "id": 1,
+      "location": "Europe",
+      "departure": [
         {
           "id": 0,
           "city": "Barcelona (Tarragona)",
@@ -170,7 +174,9 @@
       ]
     },
     {
-      "Asia & Southpacific ": [
+      "id": 2,
+      "location": "Asia & Southpacific",
+      "departure": [
         {
           "id": 0,
           "city": "Pekin (Tianjin)",
