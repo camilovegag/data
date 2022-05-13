@@ -163,13 +163,28 @@
       "departure": [
         {
           "id": 100,
-          "city": "Barcelona (Tarragona)",
-          "state": "Spain"
+          "city": "Amsterdan",
+          "state": "Netherlands"
         },
         {
           "id": 101,
           "city": "Haifa",
           "state": "Israel"
+        },
+        {
+          "id": 102,
+          "city": "Stockholm",
+          "state": "Sweden"
+        },
+        {
+          "id": 103,
+          "city": "Barcelona (Tarragona)",
+          "state": "Spain"
+        },
+        {
+          "id": 104,
+          "city": "Limassol",
+          "state": "Cyprus"
         }
       ]
     },
@@ -179,13 +194,28 @@
       "departure": [
         {
           "id": 1000,
+          "city": "Brisbane",
+          "state": "Australia"
+        },
+        {
+          "id": 1003,
           "city": "Pekin (Tianjin)",
           "state": "China"
         },
         {
           "id": 1001,
+          "city": "Perth (Fremantle)",
+          "state": "Australia"
+        },
+        {
+          "id": 1004,
           "city": "Singapore",
           "state": "Singapore"
+        },
+        {
+          "id": 1002,
+          "city": "Sydney",
+          "state": "Australia"
         }
       ]
     }
