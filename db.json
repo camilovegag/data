@@ -162,12 +162,12 @@
       "location": "Europe",
       "departure": [
         {
-          "id": 0,
+          "id": 100,
           "city": "Barcelona (Tarragona)",
           "state": "Spain"
         },
         {
-          "id": 1,
+          "id": 101,
           "city": "Haifa",
           "state": "Israel"
         }
@@ -178,12 +178,12 @@
       "location": "Asia & Southpacific",
       "departure": [
         {
-          "id": 0,
+          "id": 1000,
           "city": "Pekin (Tianjin)",
           "state": "China"
         },
         {
-          "id": 1,
+          "id": 1001,
           "city": "Singapore",
           "state": "Singapore"
         }
